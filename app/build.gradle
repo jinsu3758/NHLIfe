@@ -44,4 +44,12 @@ dependencies {
     implementation 'com.github.bumptech.glide:glide:4.7.1'
     annotationProcessor 'com.github.bumptech.glide:compiler:4.7.1'
     implementation 'jp.wasabeef:glide-transformations:3.0.1'
+
+    //circle imageview
+    implementation 'com.makeramen:roundedimageview:2.3.0'
+
+    implementation 'com.sothree.slidinguppanel:library:3.4.0'
+
+    //chart
+    implementation 'com.github.PhilJay:MPAndroidChart:v3.0.3'
 }
